@@ -1,4 +1,4 @@
-name 'example42-abrt'
+name 'mburger-abrt'
 version '2.0.11'
 
 author 'Alessandro Franceschi'
